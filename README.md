@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Behjatifar
-- 👀 I’m interested in C# Language & Asp.net
-- 🌱 I’m currently learning C# 
+- interested in C# & Java Script
+-  I’m currently Working with Rahavrd Dadeh Afza
 
 - 📫 Contact ways 
-- IG : 
-Telegram : @AmirMahDi2541
+- IG : @Behjatifar
+Telegram : @AmirBehjatifar
 Gmail : abehjatifar@gmail.com
 
 
