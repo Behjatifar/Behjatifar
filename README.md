@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @Behjatifar
-- interested in C# & Java Script
--  I’m currently Working with Rahavrd Dadeh Afza
+- string name = "AmirMehDi";
+- string country = "Iran";
+- interested in C#;
+- Currently learning and working on Csharp
 
 - 📫 Contact ways 
 - IG : @Behjatifar
 Telegram : @AmirBehjatifar
 Gmail : abehjatifar@gmail.com
+
 
 
